@@ -1,0 +1,44 @@
+html, body {
+	height: 100%;
+}
+
+.mainContainer {
+	background-image: url("images/bg.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: center;
+	height: 100%;
+	width: 100%;
+}
+
+.center {
+	text-align: center;
+}
+
+.header {
+	color: #fff;
+	margin-top: 130px;
+}
+
+#main {
+	background-color:rgba(209, 209, 209, 0.5);
+	border: 0px solid #000000;
+	border-radius:10px;
+	
+}
+
+#findMyWeather {
+	margin-bottom: 15px;
+}
+
+.mainContent {
+	padding-top: 20px;
+	padding-bottom: 15px;
+}
+
+.alert {
+	display:none;
+}
+
+
